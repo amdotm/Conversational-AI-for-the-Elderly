@@ -211,6 +211,7 @@ __marimo__/
 data/*
 !data/README.md
 !data/.gitkeep
+session.jsonl
 
 results/*
 !results/README.md
