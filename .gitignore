@@ -205,3 +205,26 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Data and recordings (do not commit)
+data/*
+!data/README.md
+!data/.gitkeep
+
+results/*
+!results/README.md
+!results/.gitkeep
+
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.jsonl
+*.csv
+
+# Secrets and local configs
+.env
+*.key
+config.yaml
+secrets.yaml
