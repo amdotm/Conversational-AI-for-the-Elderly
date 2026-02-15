@@ -1,0 +1,7 @@
+google-cloud-speech
+google-cloud-texttospeech
+sounddevice
+soundfile
+numpy
+openai>=1.40.0
+tiktoken>=0.7.0
