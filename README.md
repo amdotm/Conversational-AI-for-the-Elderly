@@ -35,6 +35,7 @@ The project develops and evaluates a voice based conversational AI prototype des
 | `list_voices.py` | Helper to list available Google TTS voices |
 | `start_project.sh` | Launch script |
 | `requirements.txt` | Python dependencies |
+| `analyze_audio` | Audio File Analyzer |
 
 ## Setup
 
